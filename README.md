@@ -4,6 +4,8 @@
 
 The owner of Vrinda store (A Clothing Store) wants to create an annual sales report for 2022. So that their employees can understand their customers and grow more sales further.
 
+<img width="800" alt="charts" src="https://github.com/DipanshuK2003/Sales_Analysis_Of_A_Clothing_Store/assets/104434675/9898deb2-6bd5-4a7b-97e2-922e3bd63aff">
+
 ### Data Source
 
 The dataset which is used in this project is the "Sales-Data.xlsx", containing detailed information about sales made by the company.
